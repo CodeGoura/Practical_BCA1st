@@ -115,5 +115,4 @@ Feel free to submit pull requests for improvements or additional programs. Contr
 This repository is licensed under the MIT License.
 
 ---
-
-You can update the URLs in the `[View Solution] (https://github.com/CodeGoura/Practical_BCA1st)` links based on the actual file structure in your repository.
+ [View Solution] (https://github.com/CodeGoura/Practical_BCA1st)
