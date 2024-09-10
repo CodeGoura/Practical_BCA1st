@@ -112,7 +112,7 @@ Feel free to submit pull requests for improvements or additional programs. Contr
 
 ## License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the GNU License.
 
 ---
  [View Solution] (https://github.com/CodeGoura/Practical_BCA1st)
